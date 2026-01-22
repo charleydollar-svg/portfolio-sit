@@ -1,13 +1,19 @@
 h1 {
     margin: 0;
     font-size: 2em;
-    color: chartreuse;
+    color: rgb(0, 255, 8);
     background-color: blue;
 }   
 
-h2 {
-    margin: 30;
-    font-size: 1.5em;
-    color: rgb(0, 153, 255);
-    background-color: purple;
+ul {
+    list-style-type: square;
+}
+div {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    font: 100% times new roman, sans-serif;
+}
+body {
+    background-color: rgb(88, 197, 240);
 }
